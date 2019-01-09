@@ -1,0 +1,10 @@
+{
+  "name": "yourtube",
+  "version": "1.0.0",
+  "description": "YourTube with Vanila and NodeJS",
+  "main": "index.js",
+  "author": "Aejeong",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
